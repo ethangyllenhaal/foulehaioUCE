@@ -1,8 +1,8 @@
 # foulehaioUCE
-Scripts and input files used in phylogeographic study of the genus Foulehaio.
+Scripts and input files used in phylogeographic study of the genus Foulehaio. If you use this, please cite us:
 
-README by: Ethan Gyllenhaal
-Last updated: 23 November 2020
+Mapel XM, Gyllenhaal EF, Modak TH, DeCicco LH, Naikatini A, Utzurrum RB, Seamon JO, Cibois A, Thibault J, Sorenson MD, Moyle RG, Barrow LN, Andersen MJ. Inter- and intra-archipelago dynamics of population structure and gene flow in a Polynesian bird. In press, Molecular Phylogenetics and Evolution.
+
 
 This README describes the scripts and input files used for a project assessing the phylogeography of a widespread island generalist (Foulehaio carunculatus) and other related taxa. The data was collected using Illumina sequence of libraries enriched for tetrapod ultraconserved elements. It was then processed using common pipelines for the data (namely phyluce and a variant of seqcap_pop) before input files were generated for population genomic analyses.
 
